@@ -8,3 +8,5 @@ Created on Thu Mar 31 11:16:53 2022
 
 x=100
 print(x*4+20)
+
+print(x^2)
